@@ -1,4 +1,4 @@
-# Property Insurance Premium Prediction
+# Insurance Premium Prediction
 
 ![banner-home-insurance-1 (3)](https://github.com/ninadpatil09/Property-Insurance-Premium-Prediction/assets/60342946/856354d6-3a04-49b1-9a3a-c9bb667aa1fa)
 
